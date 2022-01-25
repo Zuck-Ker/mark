@@ -1,5 +1,5 @@
 # MBF
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SELAMAT+DATANG+DI+GITHUB+Zuck+Ker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SELAMAT+DATANG+DI+GITHUB+Zuck+Ker+JANGAN+DI+RECODE+NANTI+ERROR+YA+NYET)](https://git.io/typing-svg)
 
 ```
 $ pkg install git
